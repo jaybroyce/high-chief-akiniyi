@@ -16,19 +16,7 @@ body {
 }
 
 .logo {
-  width: 70px;
-}
-
-.nav-div {
-  display: flex;
-  align-items: center;
-  font-family: var(--ff1);
-  padding: 0px 10px;
-}
-
-.nav-div > a {
-  text-decoration: none;
-  margin-right: 5px;
+  width: 60px;
 }
 
 .second-cnt-div {
@@ -51,6 +39,7 @@ body {
 
 .the {
   background-color: cornflowerblue !important;
+  z-index: 10;
 }
 
 .footer-div {
