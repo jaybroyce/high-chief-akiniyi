@@ -53,6 +53,14 @@ body {
   font-size: 3rem;
 }
 
+.nav-item:hover {
+  font-weight: 900;
+}
+
+.dropdown-item:hover {
+  font-weight: 900;
+}
+
 .footer-sub {
   background-color: cornflowerblue;
   border-top: 1px solid grey;
